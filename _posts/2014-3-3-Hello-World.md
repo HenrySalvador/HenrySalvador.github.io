@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog Post
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is my first blog post. Learning to setup a blog using Jekyll with the help of Youtube's 
+[UberMuffinProduction](https://www.youtube.com/watch?v=-QA6HqZalBQ&t=62s&ab_channel=UberMuffinProduction)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I intend to use this blog to help me reinforce what I have learn as well as hone my skills in writing and communication.
